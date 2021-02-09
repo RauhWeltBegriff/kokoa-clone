@@ -1,3 +1,3 @@
 # Kokoa Clone 2021 study
 
-learning code is awesome
+learning code is hella good
